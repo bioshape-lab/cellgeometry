@@ -174,7 +174,7 @@ The MIT License is a permissive open-source license that allows you to use, modi
 
 This project is extremely grateful for the guidance of Professor Nina Miolane and the members of BioShape lab for their feedback/invaluable discussions.
 
-This project is conducted in the context of the [UCSB Data-Driven Biology (DDB)](https://ddb.bioengineering.ucsb.edu/) program under the grant NSF NRT Award Number: 2125644.
+This project is conducted in the context of the [UCSB Data-Driven Biology (DDB)](https://ddb.bioengineering.ucsb.edu/) program under the grant NSF NRT Award Number: 2125644. This project is partially funded by the NSF CAREER grant 2240158.
 
 
 ## ❓ Frequently Asked Questions
